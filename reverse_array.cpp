@@ -35,6 +35,7 @@ int main()
     cout << "Reversed array is" << endl;
 
     printArray(arr, n);
+    printArray(arr,n);
 
     return 0;
 }
